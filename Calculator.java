@@ -15,4 +15,9 @@ public class Calculator
 		System.out.println("Substraction =" + (number1 - number2));
 		
 	}
+	public static void addition(int number1, int number2)
+	{
+		System.out.println("Multiplication =" + (number1 * number2));
+		
+	}
 }
